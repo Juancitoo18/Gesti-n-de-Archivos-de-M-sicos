@@ -1,0 +1,519 @@
+# depslib dependency file v1.0
+1664633736 source:c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\musica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"prototipos.h"
+
+1664633890 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\musica\prototipos.h
+
+1664913535 source:c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Fecha_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+
+1664895324 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\fecha_clase.h
+
+1664914569 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\canciones_clase.h
+
+1664912344 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\prototipos.h
+
+1664914602 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\menucanciones.h
+
+1664913535 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\menuinterpretes.h
+
+1664913535 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\menugeneros.h
+
+1664913535 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\app\menureportes.h
+
+1665003296 source:c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"Genero_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+
+1664997621 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\fecha_clase.h
+
+1664998309 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\canciones_clase.h
+
+1664998823 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\menucanciones.h
+
+1665003832 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\menuinterpretes.h
+
+1664998903 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\menugeneros.h
+
+1664922298 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\menureportes.h
+
+1664998873 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\genero_clase.h
+
+1665003503 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\otros\interpretes_clase.h
+
+1665008842 source:c:\users\hp\onedrive\escritorio\musicaa\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"Genero_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+
+1664997621 c:\users\hp\onedrive\escritorio\musicaa\fecha_clase.h
+
+1665008842 c:\users\hp\onedrive\escritorio\musicaa\canciones_clase.h
+
+1665007006 c:\users\hp\onedrive\escritorio\musicaa\interpretes_clase.h
+
+1665008720 c:\users\hp\onedrive\escritorio\musicaa\genero_clase.h
+
+1665007484 c:\users\hp\onedrive\escritorio\musicaa\menucanciones.h
+
+1665008030 c:\users\hp\onedrive\escritorio\musicaa\menuinterpretes.h
+
+1665008522 c:\users\hp\onedrive\escritorio\musicaa\menugeneros.h
+
+1664922298 c:\users\hp\onedrive\escritorio\musicaa\menureportes.h
+
+1665008842 source:c:\users\hp\onedrive\escritorio\musicafinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"Genero_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+
+1665017562 c:\users\hp\onedrive\escritorio\musicafinal\fecha_clase.h
+
+1665008842 c:\users\hp\onedrive\escritorio\musicafinal\canciones_clase.h
+
+1665007006 c:\users\hp\onedrive\escritorio\musicafinal\interpretes_clase.h
+
+1665012568 c:\users\hp\onedrive\escritorio\musicafinal\genero_clase.h
+
+1665007484 c:\users\hp\onedrive\escritorio\musicafinal\menucanciones.h
+
+1665008030 c:\users\hp\onedrive\escritorio\musicafinal\menuinterpretes.h
+
+1665008522 c:\users\hp\onedrive\escritorio\musicafinal\menugeneros.h
+
+1665017562 c:\users\hp\onedrive\escritorio\musicafinal\menureportes.h
+
+1665019597 source:c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Genero_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+
+1665019775 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\fecha_clase.h
+
+1665020518 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\canciones_clase.h
+
+1665007006 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\interpretes_clase.h
+
+1665012568 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\genero_clase.h
+
+1665007484 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\menucanciones.h
+
+1665008030 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\menuinterpretes.h
+
+1665008522 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\menugeneros.h
+
+1665022574 c:\users\zoero\onedrive\escritorio\utn\2cuatri\labo ii\tp musica\juancito\musicafinal\menureportes.h
+
+1665026717 source:c:\users\hp\onedrive\escritorio\musica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Genero_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1665019775 c:\users\hp\onedrive\escritorio\musica\fecha_clase.h
+
+1665012568 c:\users\hp\onedrive\escritorio\musica\genero_clase.h
+
+1665031110 c:\users\hp\onedrive\escritorio\musica\canciones_clase.h
+
+1665032942 c:\users\hp\onedrive\escritorio\musica\interpretes_clase.h
+
+1665007484 c:\users\hp\onedrive\escritorio\musica\menucanciones.h
+
+1665008030 c:\users\hp\onedrive\escritorio\musica\menuinterpretes.h
+
+1665008522 c:\users\hp\onedrive\escritorio\musica\menugeneros.h
+
+1665034195 c:\users\hp\onedrive\escritorio\musica\menureportes.h
+
+1665028206 c:\users\hp\onedrive\escritorio\musica\menuconfiguracion.h
+
+1665026717 source:c:\users\pais gamer\desktop\musica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Genero_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1665019775 c:\users\pais gamer\desktop\musica\fecha_clase.h
+
+1665012568 c:\users\pais gamer\desktop\musica\genero_clase.h
+
+1665031110 c:\users\pais gamer\desktop\musica\canciones_clase.h
+
+1665032942 c:\users\pais gamer\desktop\musica\interpretes_clase.h
+
+1665007484 c:\users\pais gamer\desktop\musica\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\musica\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\musica\menugeneros.h
+
+1665034195 c:\users\pais gamer\desktop\musica\menureportes.h
+
+1665028206 c:\users\pais gamer\desktop\musica\menuconfiguracion.h
+
+1665026717 source:c:\users\pais gamer\desktop\laboratorio ii\musica\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<clocale>
+	<ctime>
+	"Fecha_clase.h"
+	"Genero_clase.h"
+	"Canciones_clase.h"
+	"Interpretes_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1665019775 c:\users\pais gamer\desktop\laboratorio ii\musica\fecha_clase.h
+
+1665012568 c:\users\pais gamer\desktop\laboratorio ii\musica\genero_clase.h
+
+1665031110 c:\users\pais gamer\desktop\laboratorio ii\musica\canciones_clase.h
+
+1665032942 c:\users\pais gamer\desktop\laboratorio ii\musica\interpretes_clase.h
+
+1665007484 c:\users\pais gamer\desktop\laboratorio ii\musica\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\laboratorio ii\musica\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\laboratorio ii\musica\menugeneros.h
+
+1665034195 c:\users\pais gamer\desktop\laboratorio ii\musica\menureportes.h
+
+1665028206 c:\users\pais gamer\desktop\laboratorio ii\musica\menuconfiguracion.h
+
+1668658075 source:c:\users\pais gamer\desktop\musica 2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<locale.h>
+	<ctime>
+	"Errores.h"
+	"Paises.h"
+	"Fecha_clase.h"
+	"Tipo_de_Interprete.h"
+	"Genero_clase.h"
+	"Interpretes_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuPaises.h"
+	"menuTipoDeInterpretes.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1668479404 c:\users\pais gamer\desktop\musica 2.0\fecha_clase.h
+
+1668657125 c:\users\pais gamer\desktop\musica 2.0\genero_clase.h
+
+1668653376 c:\users\pais gamer\desktop\musica 2.0\canciones_clase.h
+
+1668657528 c:\users\pais gamer\desktop\musica 2.0\interpretes_clase.h
+
+1668656073 c:\users\pais gamer\desktop\musica 2.0\paises.h
+
+1668470064 c:\users\pais gamer\desktop\musica 2.0\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\musica 2.0\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\musica 2.0\menugeneros.h
+
+1668656756 c:\users\pais gamer\desktop\musica 2.0\menupaises.h
+
+1668695708 c:\users\pais gamer\desktop\musica 2.0\menureportes.h
+
+1668686449 c:\users\pais gamer\desktop\musica 2.0\menuconfiguracion.h
+
+1668658562 c:\users\pais gamer\desktop\musica 2.0\errores.h
+
+1668657867 c:\users\pais gamer\desktop\musica 2.0\tipo_de_interprete.h
+
+1668656835 c:\users\pais gamer\desktop\musica 2.0\menutipodeinterpretes.h
+
+1668658075 source:c:\users\pais gamer\desktop\rios_juan\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<locale.h>
+	<ctime>
+	"Errores.h"
+	"Paises.h"
+	"Fecha_clase.h"
+	"Tipo_de_Interprete.h"
+	"Genero_clase.h"
+	"Interpretes_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuPaises.h"
+	"menuTipoDeInterpretes.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1668658562 c:\users\pais gamer\desktop\rios_juan\errores.h
+
+1668656073 c:\users\pais gamer\desktop\rios_juan\paises.h
+
+1668479404 c:\users\pais gamer\desktop\rios_juan\fecha_clase.h
+
+1668657867 c:\users\pais gamer\desktop\rios_juan\tipo_de_interprete.h
+
+1668657125 c:\users\pais gamer\desktop\rios_juan\genero_clase.h
+
+1668657528 c:\users\pais gamer\desktop\rios_juan\interpretes_clase.h
+
+1668653376 c:\users\pais gamer\desktop\rios_juan\canciones_clase.h
+
+1668470064 c:\users\pais gamer\desktop\rios_juan\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\rios_juan\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\rios_juan\menugeneros.h
+
+1668656756 c:\users\pais gamer\desktop\rios_juan\menupaises.h
+
+1668656835 c:\users\pais gamer\desktop\rios_juan\menutipodeinterpretes.h
+
+1668696196 c:\users\pais gamer\desktop\rios_juan\menureportes.h
+
+1668686449 c:\users\pais gamer\desktop\rios_juan\menuconfiguracion.h
+
+1668658075 source:c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<locale.h>
+	<ctime>
+	"Errores.h"
+	"Paises.h"
+	"Fecha_clase.h"
+	"Tipo_de_Interprete.h"
+	"Genero_clase.h"
+	"Interpretes_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuPaises.h"
+	"menuTipoDeInterpretes.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1668658562 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\errores.h
+
+1668656073 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\paises.h
+
+1668479404 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\fecha_clase.h
+
+1668657867 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\tipo_de_interprete.h
+
+1668657125 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\genero_clase.h
+
+1668657528 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\interpretes_clase.h
+
+1668653376 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\canciones_clase.h
+
+1668470064 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menugeneros.h
+
+1668656756 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menupaises.h
+
+1668656835 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menutipodeinterpretes.h
+
+1668822374 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menureportes.h
+
+1668686449 c:\users\pais gamer\desktop\laboratorio ii\musica 2.0\menuconfiguracion.h
+
+1668658075 source:c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<locale.h>
+	<ctime>
+	"Errores.h"
+	"Paises.h"
+	"Fecha_clase.h"
+	"Tipo_de_Interprete.h"
+	"Genero_clase.h"
+	"Interpretes_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuPaises.h"
+	"menuTipoDeInterpretes.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1682650347 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\errores.h
+
+1668656073 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\paises.h
+
+1682650256 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\fecha_clase.h
+
+1668657867 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\tipo_de_interprete.h
+
+1668657125 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\genero_clase.h
+
+1668657528 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\interpretes_clase.h
+
+1668653376 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\canciones_clase.h
+
+1668470064 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menugeneros.h
+
+1668656756 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menupaises.h
+
+1668656835 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menutipodeinterpretes.h
+
+1668822936 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menureportes.h
+
+1668686449 c:\users\pais gamer\desktop\cursado tup\laboratorio ii\musica 2.0\menuconfiguracion.h
+
+1668658075 source:c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	<locale.h>
+	<ctime>
+	"Errores.h"
+	"Paises.h"
+	"Fecha_clase.h"
+	"Tipo_de_Interprete.h"
+	"Genero_clase.h"
+	"Interpretes_clase.h"
+	"Canciones_clase.h"
+	"menuCanciones.h"
+	"menuInterpretes.h"
+	"menuGeneros.h"
+	"menuPaises.h"
+	"menuTipoDeInterpretes.h"
+	"menuReportes.h"
+	"menuConfiguracion.h"
+
+1683255928 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\errores.h
+
+1668656073 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\paises.h
+
+1682650256 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\fecha_clase.h
+
+1668657867 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\tipo_de_interprete.h
+
+1668657125 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\genero_clase.h
+
+1668657528 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\interpretes_clase.h
+
+1668653376 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\canciones_clase.h
+
+1668470064 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menucanciones.h
+
+1665008030 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menuinterpretes.h
+
+1665008522 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menugeneros.h
+
+1668656756 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menupaises.h
+
+1668656835 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menutipodeinterpretes.h
+
+1668822936 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menureportes.h
+
+1668686449 c:\users\pais gamer\desktop\cursado tup\2do cuatrimestre\laboratorio ii\musica 2.0\menuconfiguracion.h
+
